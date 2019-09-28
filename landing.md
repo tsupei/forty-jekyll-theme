@@ -1,7 +1,7 @@
 ---
 title: Natural Language Processing
 layout: landing
-description: 所有與自然語言處理(NLP)相關的學習文章在這裡
+description: '所有與自然語言處理(NLP)相關的學習文章在這裡'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
