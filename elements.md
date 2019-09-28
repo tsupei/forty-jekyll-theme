@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Elements
+title: Projects
+description: 作品集
 nav-menu: true
 ---
 

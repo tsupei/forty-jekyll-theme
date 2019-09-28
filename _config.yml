@@ -1,9 +1,9 @@
 # site settings
-title: TSU PEI's
-subtitle: by HTML5 UP
+title: TSU PEI's 
+subtitle: BLOG
 email: a5560648@gmail.com
-description: 記錄學習的過程
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+description: Hi! 這邊是我紀錄所學的部落格，主要為NLP相關領域的文章
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 
