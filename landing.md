@@ -1,10 +1,29 @@
 ---
-title: Natural Language Processing
+title: About Me
 layout: landing
-description: '所有與自然語言處理(NLP)相關的學習文章在這裡'
-image: assets/images/pic07.jpg
+description: '關於我'
+image: assets/images/sea.JPG
 nav-menu: true
+show_tile: false
 ---
+
+<部落格介紹>
+
+<日本介紹>
+
+在我大四那一年，我曾到`日本東京工業大學`交換留學一年，這一年不論是語言、知識、眼界都成長的不少，我到日本各個地方旅遊
+
+在玩樂的同時也學習，像是東京有許多美術館，原本對於看展覽不耐煩的我，也慢慢懂得靜下來欣賞藝術了，對於美學的成長是我這一年的重大收穫之一
+
+這一年中，我有很多機會跟各式各樣的人交流，深入體驗日本的文化，就像短暫的進入一部日本電影中，我彷彿也成為了一份子
+
+<NLP介紹>
+
+以交換留學為契機，讓我開始接觸到`自然語言處理`這個領域，我交換留學使用的是`YSEP`計畫，每個人都必須選擇一個實驗室並完成一個成果報告
+
+而我剛好選擇到了
+
+<作品介紹>
 
 <!-- Main -->
 <div id="main">

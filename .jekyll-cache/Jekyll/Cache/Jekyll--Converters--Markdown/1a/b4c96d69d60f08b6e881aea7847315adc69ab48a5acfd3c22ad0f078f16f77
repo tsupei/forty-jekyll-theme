@@ -1,0 +1,24 @@
+I"y<h1 id="introduction">Introduction</h1>
+
+<p>在開始寫技術部落格後，我一直在尋求一個最好的寫作方式，平常我紀錄筆記使用的是<code class="highlighter-rouge">evernote</code>，要寫個比較正式的文章我會使用<code class="highlighter-rouge">sublime</code></p>
+
+<p>但有鑒於使用<code class="highlighter-rouge">markdown</code>攥寫的時候，會有一些特殊語法的固定格式，例如要插入一個具有連結的文字，需要使用</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">[</span>文字]<span class="o">(</span>URL<span class="o">)</span>
+</code></pre></div></div>
+
+<p>像是上面這樣的格式，經常要使用這樣的格式的時候就會顯得有點麻煩，而不僅僅是<code class="highlighter-rouge">markdown</code>會有這樣的狀況，像是<code class="highlighter-rouge">LaTex</code>或者是一般的寫程式也都會遇到這樣撰寫固定格式的困擾</p>
+
+<p>而使用<code class="highlighter-rouge">vim</code>讓我能擁有很多彈性能夠去定義一些<code class="highlighter-rouge">捷徑</code>來讓寫作更順暢，像是<code class="highlighter-rouge">Ultisnippets</code>就可以自己寫<code class="highlighter-rouge">snippet</code>，真的是非常方便，所以就趕快來看一下怎麼使用吧</p>
+
+<h1 id="overview">Overview</h1>
+
+<p>接下來我會分為幾個部分來介紹</p>
+
+<ol>
+  <li>基本的bash指令</li>
+  <li>使用<code class="highlighter-rouge">vim-plugin</code>套件</li>
+  <li>使用<code class="highlighter-rouge">Ultisnippet</code>套件</li>
+</ol>
+
+:ET
